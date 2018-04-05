@@ -1,0 +1,6 @@
+#CAEN
+Host kurtovic
+	HostName login.engin.umich.edu
+	User kurtovic
+	Compression yes
+
